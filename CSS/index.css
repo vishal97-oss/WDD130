@@ -1,0 +1,17 @@
+      img {
+        width: 350px;
+        border-radius: px;
+        margin-right: 10px;
+        object-fit: cover; /* ??? */
+      }
+
+      p.tomaketextbold {  /* created a class and used it to bold specific text*/
+        font-weight: bold;
+      }
+
+      em {
+          color: red;
+          font-style: normal;
+      }
+    /* NOW WE ADD CSS INSIDE THE HEADER BY CALLING IT STYLE */
+    /* IMG is the property and each property contain a property and a value. */
