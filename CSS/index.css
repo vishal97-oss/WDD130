@@ -13,5 +13,35 @@
           color: red;
           font-style: normal;
       }
+
+      body {
+        text-align: center;
+      }
+
+      nav {
+        background-color: steelblue;
+        padding: 10px;
+      }
+
+      a {
+        color: white;
+        margin: 40px;
+      }
+
+      h1 {
+        color: Black;
+      }
+      img {
+        width: 800px;
+        border: 4px solid steelblue;
+      }
+      p {
+        padding: 10px;
+      }
+      footer {
+        background-color: steelblue;
+        color: white;
+      }
+
     /* NOW WE ADD CSS INSIDE THE HEADER BY CALLING IT STYLE */
     /* IMG is the property and each property contain a property and a value. */
