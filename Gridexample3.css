@@ -1,0 +1,14 @@
+.grid2 div {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+.grid2 div:nth-child(odd) {
+    background-color: gray
+}
+
+.grid2 {
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr ;
+    
+}

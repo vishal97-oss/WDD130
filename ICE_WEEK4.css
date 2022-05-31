@@ -1,0 +1,45 @@
+body{
+    background-color: pink;
+    font-size: 24px;
+    
+    margin: 0 auto;
+}
+
+.list {
+    text-align: center;
+}
+
+.div1   {
+    text-align: center;
+    color: white;
+}
+
+.div2 {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 400px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.white:hover {
+    color: black;
+}
+
+.text   {
+    text-align: center;
+}
+
+.picture {
+  text-align: center;
+  display:block;
+  margin: 0 auto;
+}
+
+.Hello {
+    text-align: center;
+    display:block;
+    margin: 0 auto;
+}

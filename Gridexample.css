@@ -1,0 +1,19 @@
+
+.grid div {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+.grid div:nth-child(odd) {
+    background-color: gray
+}
+
+.grid {
+    display:grid;
+    grid-template-columns: 40% 30% 30%; /* add as many box you want with this % sighm */
+    /*
+    grid-column-gap: 1em; ******column saprate********
+    grid-row-gap: 1em; ******** row saprated ********
+    */
+    grid-gap: 1em; /* Does the same thing */ 
+}

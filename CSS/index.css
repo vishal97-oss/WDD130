@@ -52,5 +52,32 @@ footer {
   color: white;
 }
 
+.Color{
+  background-color: red;
+  color: white;
+}
+
+#Bold{
+  text-align: right;
+}
+
+.Emphasize {
+  font-weight: bold;
+  color: darkblue;
+}
+
+#space {
+  height: 500px;
+}
+
+#block {
+  border: 6px solid black;
+}
+
+.making_box{
+  background-color: black;
+  color: white;
+  padding: 20px;  
+}
 /* NOW WE ADD CSS INSIDE THE HEADER BY CALLING IT STYLE */
 /* IMG is the property and each property contain a property and a value. */
