@@ -1,0 +1,45 @@
+.mainblock {
+    display: block;
+}
+
+#river1 > img {
+    float: left;
+    width: 55%;
+    margin-right: 20px;
+    border: solid black 10px;
+}
+
+#river2 > img {
+    float: right;
+    width: 55%;
+    margin-left: 20px;
+    border: solid black 10px;
+}
+
+#river2 > h2 {
+    text-align: center;
+}
+
+#river1 > p {
+    padding: 20px;
+    line-height: 50px;
+}
+
+
+#river2 > p {
+    padding: 20px;
+    line-height: 50px;
+}
+
+#div3 > h2 {
+    text-align: center;
+}
+
+#div3 > p {
+    line-height: 50px;
+    margin-bottom: -150px;
+}
+
+.mainblock > h1 {
+    text-align: center;
+}

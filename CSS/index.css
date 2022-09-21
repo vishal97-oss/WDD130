@@ -28,13 +28,15 @@ body {
 }
 
 nav {
-  background-color: steelblue;
   padding: 10px;
 }
+
+
 
 a {
   color: white;
   margin: 40px;
+  
 }
 
 h1 {
@@ -81,3 +83,7 @@ footer {
 }
 /* NOW WE ADD CSS INSIDE THE HEADER BY CALLING IT STYLE */
 /* IMG is the property and each property contain a property and a value. */
+
+.USA {
+  background-image: url("/WDD130/wwr/Images/USA.webp");
+}
